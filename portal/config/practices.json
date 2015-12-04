@@ -359,7 +359,13 @@
         "fft": "ddes_silverdale_01_fft",
 
         "about": {
-            "address": "Front St, South Hetton, Co Durham, DH6 2TH"
+            "address": "Front St, South Hetton, Co Durham, DH6 2TH",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 8am – 6pm\nTuesday | 8am – 6pm\nWednesday | 8am – 6pm\nThursday | 8am – 6pm\nFriday | 8am – 6pm\nSaturday morning | You can now see a GP at Peterlee Health Centre, Bede way, Peterlee, SR9 1AD – <b>no appointment necessary</b>",
+            "info"   : "<p>Silverdale Family Practice is a four partner practice looking after the health needs of the local area from within the health centre at South Hetton. We are proud of our record of ensuring patients receive the very best care and service possible. </p><p>Appointments can often be made to see a doctor or nurse on the same day, although as we always ensure we give priority to urgent cases this is not always possible. </p><p> We welcome registrations from new patients residing within our catchment area which includes many of the local villages. </p><p> All of our patients have a named accountable GP, however patients are free to make appointments with and see whichever GP they wish. <br/> You can book appointments, order repeat prescriptions and view summary information of your patient record online at <a href='http://www.silverdalefamilypractice.co.uk'>www.silverdalefamilypractice.co.uk</a>. Please register at reception if you would like to access this service.</p>",
+            "tel"    : "<a href='tel:0191 517 1055' title='Click to Call'>0191 517 1055</a>",
+            "email" : "<a href='mailto:reception@silverdalefamilypractice.co.uk'>reception@silverdalefamilypractice.co.uk</a>",
+            "before_website": "Please see our website for more information on the practice",
+            "website": "http://www.silverdalefamilypractice.co.uk"
         }
     },
     
@@ -370,7 +376,9 @@
         "fft": "ddes_standrews_01_fft",
 
         "about": {
-            "address": "Sensier House, St Andrews Lane, Spennymoor, Co Durham, TS21 3BN"
+            "address": "Sensier House, St Andrews Lane, Spennymoor, Co Durham, DL16 6QA",
+            "tel": "01388 317777",
+            "website": "http://www.standrewsmedicalpractice.org.uk/"
         }
     },
     

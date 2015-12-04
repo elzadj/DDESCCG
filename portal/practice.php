@@ -104,7 +104,14 @@ function showImg($practiceID, $type) {
                 <?php } ?>
 
             </div> <!-- /fields-->
-                
+            <?php if (isset($practice->about->before_website) && !empty($practice->about->before_website)) { ?>
+            <div class="block">
+                <p class="intro">
+                    <?php echo $parsedown->text($practice->about->before_website); ?>
+                </p>
+            </div>
+            <?php } ?>
+
             <?php if (isset($practice->about->website) && !empty($practice->about->website)) { ?>
             <div class="site">
                 <a class="button" href="<?php echo html($practice->about->website); ?>">
