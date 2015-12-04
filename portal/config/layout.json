@@ -1,0 +1,101 @@
+[
+    {
+        "id": "default",
+        "title": "Default device",
+
+        "content": [
+            {
+                "size": "large",
+                "cells": [
+                    {
+                        "title": "Would you recommend us?",
+                        "description": "Friends and Family Test",
+                        "class": "fft"
+                    }
+                ]
+            },
+            {
+                "cells": [
+                    {
+                        "title": "Health Information",
+                        "class": "health"
+                    },
+                    {
+                        "title": "Our Practice",
+                        "class": "practice"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": "weardale",
+        "title": "The Weardale Practice",
+
+        "content": [
+            {
+                "size": "large",
+                "cells": [
+                    {
+                        "title": "Would you recommend us?",
+                        "description": "Friends and Family Test",
+                        "class": "fft"
+                    }
+                ]
+            },
+            {
+                "cells": [
+                    {
+                        "title": "Latest news",
+                        "class": "news"
+                    },
+                    {
+                        "title": "The Bridge Young Carers Project",
+                        "class": "bridge"
+                    }
+                ]
+            },
+            {
+                "cells": [
+                    {
+                        "title": "Health Information",
+                        "class": "health"
+                    },
+                    {
+                        "title": "Our Practice",
+                        "class": "practice"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "id": "sedgefield",
+        "title": "Sedgefield Community Hospital",
+
+        "content": [
+            {
+                "cells": [
+                    {
+                        "title": "Surveys",
+                        "class": "surveys"
+                    }
+                ]
+            },
+            {
+                "cells": [
+                    {
+                        "title": "Health Information",
+                        "class": "health"
+                    },
+                    {
+                        "title": "Our Practice",
+                        "class": "practice"
+                    }
+                ]
+            }
+        ]
+    }
+]

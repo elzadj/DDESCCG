@@ -1,0 +1,21 @@
+{
+    "surveysPath": "../surveys/",
+    
+    "devices": {
+        "web": {
+            "isOffline": false,
+            "shutDownButton": false,
+            "batteryStatus": false
+        },
+        "kiosk": {
+            "isOffline": false,
+            "shutDownButton": false,
+            "batteryStatus": false
+        },
+        "handheld": {
+            "isOffline": false,
+            "shutDownButton": true,
+            "batteryStatus": true
+        }
+    }
+}

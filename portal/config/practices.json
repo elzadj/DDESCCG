@@ -1,0 +1,412 @@
+[
+    {
+        "id"   : "pinfold",
+        "title": "Pinfold Medical Practice",
+
+        "fft"  : "ddes_pinfold_01_fft",
+
+        "about": {
+            "address": "Pinfold Lane, Butterknowle, Bishop Auckland, Co. Durham, DL13 5NX",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.30 – 18.30 \nTuesday | 08.30 – 16.00 \nWednesday | 08.30 – 18.30 \nThursday | 08.30 – 16.00 \nFriday | 08.30 – 18.00 \nWeekend | closed",
+            "tel"    : "01388 718230",
+            "website": "http://www.pinfoldmedical.co.uk/"
+        }
+    },
+
+    {
+        "id"   : "deneside",
+        "title": "Deneside Medical Centre",
+        
+        "fft": "ddes_deneside_01_fft",
+
+        "about": {
+            "address": "The Avenue, Seaham, SR7 8LF",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 8.00am - 8.00pm\nTuesday | 8.00am - 6.00pm\nWednesday | 8.00am - 6.00pm\nThursday | 8.00am - 6.00pm\nFriday | 8.00am - 6.00pm\nWeekend | closed\n\nOut of Hours: contact the Urgent Care Centre at Peterlee (Tel: 586 3474) or call 111",
+            "tel"    : "0191 3009631",
+            "website": "http://www.denesidemedicalcentre.co.uk/"
+        }
+    },
+
+    {
+        "id"   : "weardale",
+        "title": "The Weardale Practice",
+        
+        "fft": "ddes_weardale_01_fft",
+
+        "about": {
+            "address": "Stanhope Health Centre, Dales Street, Stanhope, DL13 2XD",
+            "email"  : "stanhope.practice@nhs.net",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 - 19.30\nTuesday | 08.00 - 18.00\nWednesday | 08.00 - 18.00\nThursday | 08.00 - 18.00\nFriday | 08.00 - 18.00\nSaturday | 08.00 - 13.00\nSunday | closed",
+            "tel"    : "01388 528555",
+            "website": "http://www.theweardalepractice.nhs.uk/"
+        }
+    },
+
+    {
+        "id"   : "bewick-crescent",
+        "title": "Bewick Crescent Surgery",
+
+        "fft": "ddes_bewickcresent_01_fft",
+
+        "about": {
+            "address": "27 Bewick Cresent, Newton Aycliffe, Co. Durham, DL5 5LH",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 8.30am – 6pm \nTuesday | 8.30am – 6pm\nWednesday | 8.30am – 6pm & 6.30 – 7.30pm (last booked/walk in appt. 7.15pm)\nThursday | 8.30am – 6pm \nFriday | 8.30am – 6pm \nSaturday morning | 8am – 12 noon",
+            "tel"    : "01325 316637",
+            "website": "http://www.bewickcrescentsurgery.nhs.uk/"
+        }
+    },
+
+    {
+        "id"   : "shotton",
+        "title": "Shotton Medical Practice",
+
+        "fft": "ddes_shotton_01_fft",
+
+        "about": {
+            "address": "Bevan Grove, Shotton Colliery, Co. Durham, DH6 2LQ",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 – 18.00 \nTuesday | 08.00 – 18.00 \nWednesday | 08.00 – 18.00 \nThursday | 08.00 – 18.00 \nFriday | 08.00 – 18.00 \nWeekend | closed",
+            "tel"    : "0191 526 1643",
+            "website": "http://www.shottonmedicalpractice.nhs.uk/"
+        }
+    },
+
+    {
+        "id"   : "old-forge",
+        "title": "Old Forge Surgery",
+
+        "fft": "ddes_oldforge_01_fft",
+
+        "about": {
+            "address": "Middleton-in-Teesdale, Barnard Castle, Co. Durham, DL12 0QE",
+            "email"  : "middleton.teesdale@nhs.net",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 – 18.00\nTuesday | 08.00 – 18.00\nWednesday | 08.00 – 13.00\nThursday | 08.00 – 18.00\nFriday | 08.00 – 18.00\nWeekend | closed",
+            "info"   : "Rural Practice situated in area of outstanding beauty",
+            "tel"    : "01833 640217",
+            "website": "http://www.oldforgesurgery.net/"
+        }
+    },
+
+    {
+        "id"   : "peaseway",
+        "title": "Peaseway Medical Centre",
+        
+        "fft": "ddes_peaseway_01_fft",
+
+        "about": {
+            "address": "2 Pease Way, Newton Aycliffe, Co. Durham, DL5 5NH",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 8.00am – 8.00pm \nTuesday | 8.00am – 6.00pm \nWednesday | 8.00am – 6.00pm & after 6.30pm by appointment \nThursday | 8.00am – 6.00pm & after 6.30pm by appointment \nFriday | 8.00am – 6.00pm \nWeekend | closed except for a limited service on Saturday mornings (see below for more information).\n\nWe are open after 6.30pm on Wednesday and Thursday evenings.\n\nOn Wednesday there are a limited number of GP, Nurse and Health Care Assistant appointments for your convenience. This service is predominantly for patients who find it difficult to attend the surgery during normal opening hours.\nOn Thursday there is a late family Planning Clinic which has a Nurse Practitioner, a Nurse and an HCA with bookable appointments.\nWe are currently open on Saturday mornings to provide an 'Emergency' service for walk–in patients – although patients are recommended to call **111** in the first place. There are also a number of pre–bookable appointments with a GP or a nurse.",
+            "info"   : "Peaseway Medical Centre is an NHS GP Practice offering the highest standards of personal care from a modern, purpose built property in the centre of Newton Aycliffe. The Practice Area covers Newton Aycliffe and an area with boundaries of Rushyford, Middridge, Heighington, Redworth, Aycliffe Village & Brafferton villages.",
+            "tel"    : "01325 528000",
+            "website": "http://www.peaseway.com/"
+        }
+    },
+
+    {
+        "id"   : "caradoc",
+        "title": "The Caradoc Practice",
+        
+        "fft": "ddes_caradoc_01_fft",
+
+        "about": {
+            "address": "Front Street West, Wingate, TS28 5PZ",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 – 18.00 \nTuesday | 08.00 – 18.00 \nWednesday | 08.00 – 18.00 \nThursday | 08.00 – 18.00 \nFriday | 08.00 – 18.00 \nWeekend | closed",
+            "tel"    : "01429 838217",
+            "website": "http://www.thecarodocpractice.nhs.uk/"
+        }
+    },
+
+    {
+        "id"   : "station-view",
+        "title": "Station View Medical Centre",
+        
+        "fft": "ddes_stationview_01_fft",
+
+        "about": {
+            "address": "Bishop Auckland Surgery, 29A Escomb Road, Bishop Auckland, Durham, DL14 6AB",
+            "hours"  : "Day | Hours\n--- | ---\nMonday | 7.30am – 7.30pm\nTuesday | 8am – 6pm\nWednesday | 8am – 6pm\nThursday | 7.30am – 6pm\nFriday | 8am – 6pm\nSaturday | 8am – 1pm",
+            "tel"    : "01388 452711",
+            "website": "http://www.stationviewmedicalcentre.co.uk/"
+        }
+    },
+
+    {
+        "id"   : "willington",
+        "title": "Willington Medical Group",
+        
+        "fft": "ddes_willington_01_fft",
+
+        "about": {
+            "address": "The Surgery, Chapel Street, Willington, Crook, Co. Durham, DL15 0EQ",
+            "email"  : "willingtonmedical-group@nhs.net",
+            "hours"  : "Day | Morning | Afternoon\n--- | --- | ---\nMonday | 7.30am – 12pm | 1pm – 6pm\nTuesday | 8am – 12pm | 1pm – 6pm\nWednesday | 7.30am – 12pm | 1pm – 6pm\nThursday | 8am – 12pm | 1pm – 7pm\nFriday | 8am – 12pm | 1pm – 6pm",
+            "info"   : "Welcome to Willington Medical Group.\n\nWe aim to provide the highest standard of medical care possible with effective use of the resources allocated to us.",
+            "tel"    : "01388 742500",
+            "website": "http://www.willingtonmedicalgroup.org.uk/"
+        }
+    },
+
+    {
+        "id"   : "north-house",
+        "title": "North House Surgery",
+        
+        "fft": "ddes_northhouse_01_fft",
+
+        "about": {
+            "address": "Hope Street, Crook, Co. Durham, DL15 9HU",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 – 12.00 & 13.00 – 18.00 \nTuesday | 08.00 – 12.00 & 13.00 – 18.00 \nWednesday | 08.00 – 12.00 & 13.00 – 18.00 \nThursday | 08.00 – 12.00 & 13.00 – 18.00 \nFriday | 08.00 – 12.00 & 13.00 – 18.00 \nSaturday | 08.00 – 14.00 \nSunday | closed",
+            "info"   : "We are a busy training practice looking after approximately 13,500 patients in and around the Crook area. Our patients have access to physiotherapy, counselling, coronary heart disease, diabetes and smoking cessation services all of which are held on the surgery premises. A full range of contraceptive services are also available. We have a newly formed Patient Representation Group who would welcome new members (details can be found in reception).",
+            "tel"    : "01388 762945",
+            "website": "http://www.northhousesurgery.org.uk/"
+        }
+    },
+
+    {
+        "id"   : "bishopgate",
+        "title": "Bishopgate Medical Centre",
+        
+        "fft": "ddes_bishopgate_01_fft",
+
+        "about": {
+            "address": "178 Newgate Street, Bishop Auckland, Co. Durham, DL14 7EJ",
+            "email"  : "bishopgate.mc@nhs.net",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 – 18.00 \nTuesday | 08.00 – 18.00 \nWednesday | 08.00 – 18.00 \nThursday | 08.00 – 18.00 \nFriday | 08.00 – 18.00 \nWeekend | closed",
+            "tel"    : "01388 660990",
+            "website": "http://www.bishopgate.co.uk/"
+        }
+    },
+
+    {
+        "id"   : "evenwood",
+        "title": "Evenwood Surgery",
+        
+        "fft": "ddes_evenwood_01_fft",
+
+        "about": {
+            "address": "Copeland Lane, Evenwood, Bishop Auckland, DL14 9SU",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.30 to 12.00 & 13.30 to 18.00 \nTuesday | 08.30 to 12.00 \nWednesday | 09.00 to 13.00 \nThursday | 08.30 to 12.00 & 14.00 to 18.00 \nFriday | 08.30 to 12.00 & 14.00 to 17.00 \nWeekend | closed",
+            "tel"    : "01388 832236",
+            "website": "http://www.evenwoodsurgery.co.uk/"
+        }
+    },
+    
+    {
+        "id"   : "barnard-castle",
+        "title": "Barnard Castle Surgery",
+        
+        "fft": "ddes_barnardcastle_01_fft",
+
+        "about": {
+            "address": "Victoria Road, Barnard Castle, Co. Durham, DL12 8HT",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 – 13.00 & 14.00 – 18.00\nTuesday | 08.00 – 13.00 & 14.00 – 18.00\nWednesday | 08.00 – 13.00 & 14.00 – 18.00\nThursday | 08.00 – 13.00\nFriday | 08.00 – 13.00 & 14.00 – 18.00\nWeekend | closed",
+            "tel"    : "01833 690408",
+            "website": "http://www.barnardcastlesurgery.co.uk/"
+        }
+    },
+
+    {
+        "id"   : "murton",
+        "title": "Murton Medical Group",
+        
+        "fft": "ddes_murton_01_fft",
+
+        "about": {
+            "address": "20 Woods Terrace East, Murton, Seaham, Co. Durham, SR7 9AB",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 8am - 6pm\nTuesday | 8am - 8.30pm\nWednesday | 8am - 6pm\nThursday | 8am - 6pm\nFriday | 8am - 6pm\nWeekend | closed",
+            "tel"    : "0191 5170170",
+            "website": "http://www.murtonmedicalgroup.nhs.uk/"
+        }
+    },
+
+    {
+        "id"   : "sedgefield",
+        "title": "Sedgefield Community Hospital",
+
+        "about": {
+            "address": "Salters Lane, Sedgefield, Stockton-on-Tees, Cleveland, TS21 3EE",
+            "email"  : "ddesccg.enquiries@nhs.net",
+            "hours"  : "Monday – Friday: 8.30am – 5.30pm",
+            "info"   : "NHS Durham Dales, Easington and Sedgefield Clinical Commissioning Group (DDES CCG) was authorised as a statutory body in February 2013.\n\nWe are made up 40 member GP practices and serve a population of around 272,000 spread across a large and diverse geographical area.\n\nClinical commissioning means that local GPs are using their knowledge about healthcare to develop services that meet patient needs.",
+            "tel"    : "0191 371 3222",
+            "website": "http://www.durhamdaleseasingtonsedgefieldccg.nhs.uk"
+        },
+
+        "surveys": [
+            {
+                "title": "Visitor Survey",
+                "url": "http://www.elesurvey.co.uk/f/613168/3c09/"
+            }
+        ]
+    },
+
+    {
+        "id"   : "auckland",
+        "title": "Auckland Medical Group",
+        
+        "fft": "ddes_auckland_01_fft",
+
+        "about": {
+            "address": "54 Cockton Hill Rd, Bishop Auckland, Co. Durham, DL14 6BB",
+            "hours"  : "Monday – Friday: 8am – 6pm",
+            "tel"    : "01388 602728",
+            "website": "http://www.aucklandmedicalgroup.co.uk/"
+        }
+    },
+
+    {
+        "id"   : "spennymoor",
+        "title": "Spennymoor Health Centre",
+        
+        "fft": "ddes_spennymoor_01_fft",
+
+        "about": {
+            "address": "The Health Centre, Bishops Close, Spennymoor, Co. Durham, DL16 6ED",
+            "hours"  : "Monday – Friday: 8am – 1pm & 2pm – 6pm",
+            "tel"    : "01388 811 455",
+            "website": "http://www.drwoodandpartners.co.uk/"
+        }
+    },
+    
+    {
+        "id"   : "gainford",
+        "title": "Gainford Surgery",
+        
+        "fft": "ddes_gainford_01_fft",
+
+        "about": {
+            "address": "Main Road, Gainford, Darlington, DL2 3BE",
+            "email"  : "gainfordsurgery@nhs.net",
+            "hours"  : "| Day | Hours |\n| --- | --- |\nMonday | 08.00 – 18.00\nTuesday | 08.00 – 18.00\nWednesday | 08.00 – 13.00\nThursday | 08.00 – 18.00\nFriday | 08.00 – 18.00\nWeekend | closed",
+            "info"   : "We are a very busy rural practice working in Durham Dales. We have a populations of 3000 plus and dispense to 99% of our patients",
+            "tel"    : "01325 730204",
+            "website": "http://www.gainfordsurgery.co.uk/"
+        }
+    },
+
+    {
+        "id"   : "cobblers-hall",
+        "title": "Cobblers Hall Surgery",
+        
+        "fft": "ddes_cobblershall_01_fft",
+
+        "about": {
+            "address": "Carer's Way, Burn Lane, Newton Aycliffe, Co. Durham, DL5 4SE",
+            "hours"  : "| Day | Hours |\n| --- | --- |\nMonday | 08.00 – 19.00 \nTuesday | 08.00 – 18.00 \nWednesday | 08.00 – 19.00 \nThursday | 08.00 – 18.00 \nFriday | 08.00 – 18.00 \nWeekend | closed",
+            "tel"    : "01325 311300",
+            "website": "http://www.jubileemedical.com/"
+        }
+    },
+
+    {
+        "id"   : "southdene",
+        "title": "Southdene Medical Centre",
+        
+        "fft": "ddes_southdene_01_fft",
+
+        "about": {
+            "address": "Front Street, Shotton Colliery, Co. Durham, DH6 2LT",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 – 20.00* \nTuesday | 08.00 – 18.00 \nWednesday | 08.00 – 18.00 \nThursday | 08.00 – 18.00 \nFriday | 08.00 – 18.00 \nWeekend | closed\n\nThere is a late doctors or nurses clinic on Monday evenings 18.00 – 18.00. This time is not for enquiries or picking up prescriptions. Routine and emergency appointments are available.",
+            "tel"    : "0191 526 5818",
+            "website": "http://www.southdenemedicalcentre.co.uk/"
+        }
+    },
+
+    {
+        "id"   : "william-brown",
+        "title": "William Brown Centre",
+        
+        "fft": "ddes_williambrown_01_fft",
+
+        "about": {
+            "address": "Manor Way, Peterlee, Co. Durham, SR8 5TW",
+            "email"  : "DDESCCG.epmgenquiries@nhs.net",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 8.30am – 8.30pm \nTuesday | 8.30am – 8.30pm \nWednesday | 8.30am – 8.30pm \nThursday | 8.30am – 8.30pm \nFriday | 8.30am – 8.30pm \nSaturday | 8.00am –13.00pm \nSunday | Closed",
+            "info"   : "The surgery operates an on-line system for making appointments and ordering prescriptions, for more information please speak to a receptionist.",
+            "tel"    : "0191 5691060",
+            "website": "http://www.intrahealth.co.uk/surgeries/william-brown-medical-centre.html"
+        }
+    },
+    
+    {
+        "id"   : "woodview",
+        "title": "Woodview Medical Practice",
+        
+        "fft": "ddes_woodview_01_fft",
+
+        "about": {
+            "address": "The Green, Cockfield, Bishop Auckland, Co. Durham, DL13 5AF",
+            "hours"  : "| Day | Hours |\n| --- | ----- |\nMonday | 08.00 – 18.00\nTuesday | 08.00 – 15.00\nWednesday | 08.00 – 15.00\nThursday | 08.00 – 15.00\nFriday | 08.00 – 14.00 & 16.30 – 18.00\nWeekend | closed",
+            "info"   : "Woodview Medical Practice are here to provide all patients with a professional and caring healthcare experience in friendly and personal surroundings. We have a main surgery at Cockfield, and two branch surgeries at Staindrop and Evenwood.",
+            "tel"    : "01388 718202",
+            "website": "http://www.woodviewmedicalpractice.co.uk/"
+        }
+    },
+    
+    {
+        "id"   : "new-seaham",
+        "title": "New Seaham Medical Centre",
+        
+        "fft": "ddes_newseaham_01_fft",
+
+        "about": {
+            "address": "Seaham Primary Care Centre, St Johns Square, Seaham, Co Durham, SR7 7JE"
+        }
+    },
+    
+    {
+        "id"   : "silverdale",
+        "title": "Silverdale Family Practice",
+        
+        "fft": "ddes_silverdale_01_fft",
+
+        "about": {
+            "address": "Front St, South Hetton, Co Durham, DH6 2TH"
+        }
+    },
+    
+    {
+        "id"   : "st-andrews",
+        "title": "St Andrew's Medical Practice",
+        
+        "fft": "ddes_standrews_01_fft",
+
+        "about": {
+            "address": "Sensier House, St Andrews Lane, Spennymoor, Co Durham, TS21 3BN"
+        }
+    },
+    
+    {
+        "id"   : "harbinson",
+        "title": "Dr Jones & Partners - Harbinson House",
+        
+        "fft": "ddes_harbinson_01_fft",
+
+        "about": {
+            "address": "Front St, Sedgefield, Co Durham, TS21 3BN"
+        }
+    },
+
+    {
+        "id"   : "shinwell",
+        "title": "Shinwell Medical Group",
+        
+        "fft": "ddes_shinwell_01_fft",
+
+        "about": {
+            "address": "Forth Street, Horden, Co. Durham, SR8 4LD",
+            "email": "ddesccg.a83057-eds@nhs.net",
+            "hours": [
+                {
+                    "title": "Horden",
+                    "hours": "Day | Hours\n--- | ---\nMonday | 7am – 7pm\nTuesday | 8am – 6pm\nWednesday | 8am – 6pm\nThursday | 8am – 6pm\nFriday | 8am – 6pm\nWeekend | closed" 
+                },
+                {
+                    "title": "Peterlee",
+                    "hours": "Day | Hours\n--- | ---\nMonday | 9am – 12pm & 2pm – 5pm\nTuesday | 9am – 12pm & 2pm – 5pm\nWednesday | 9am – 12pm & 2pm – 5pm\nThursday | 9am – 12pm & 4pm – 7pm\nFriday | 9am – 12pm\nSaturday | 8am – 1pm"
+                }
+            ],
+            "info": "The practice is based in Shinwell Medical Centre, Horden and Peterlee Health Centre. Our Vision is \"Putting Patients First\"",
+            "tel": "0191 586 3859",
+            "website": "http://www.shinwellmedicalgroup.co.uk/"
+        }
+    }
+]

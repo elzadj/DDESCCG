@@ -1,0 +1,27 @@
+[
+    {
+        "title": "NHS Choices",
+        "description": "Conditions, services, advice",
+        "url": "http://www.nhs.uk/"
+    },
+    {
+        "title": "Patient UK",
+        "description": "Symptom checker, health information, medication guide",
+        "url": "http://www.patient.co.uk/"
+    },
+    {
+        "title": "Change4Life",
+        "description": "Healthy food and activity tips for you and your kids",
+        "url": "http://www.nhs.uk/change4life/"
+    },
+    {
+        "title": "Durham Dales, Easington & Sedgefield CCG",
+        "description": "Responsible for organising a number of local NHS services",
+        "url": "http://www.durhamdaleseasingtonsedgefieldccg.nhs.uk/"
+    },
+    {
+        "title": "Locate",
+        "description": "Find community activities or care and support services for adults",
+        "url": "http://www.durhamlocate.org.uk/"
+    }
+]

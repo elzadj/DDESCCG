@@ -1,0 +1,27 @@
+.health-page {
+
+    main {
+        background: url('../img/words.png') right 20px top repeat-y;
+        border-top: 20px white solid; // contains repeating background
+        padding-top: 0;
+    }
+
+    .button {
+        //background-color: $light-blue;
+        font-size: 1.3em;
+
+        &.cat {
+            background-color: transparentize(darken($yellow, 15%), .2);
+            //color: darken($yellow, 30%);
+        }
+    }
+
+    .news {
+        background-color: rgba(247, 226, 20, 0.9);
+        color: black;
+
+        span > span {
+            color: transparentize(black, 0.3);
+        }
+    }
+}
